@@ -1,6 +1,6 @@
 /* Main section */
 "Main" = "메인";
-"Search" = "Search";
+"Search" = "검색";
 
 /* Downloading options */
 "Downloading" = "다운로드";
@@ -22,7 +22,7 @@
 "PostDownloadDesc" = "동영상 다운로드가 성공적으로 완료되면 선택된 동작이 수행됩니다.";
 "SaveToPhotos" = "사진에 저장";
 "Share" = "공유";
-"Copy" = "Copy";
+"Copy" = "복사하기";
 "Ask" = "묻기";
 "DownloadCompleted" = "다운로드 완료";
 
@@ -62,9 +62,9 @@
 "StickyNavbarDesc" = "아래로 스크롤할 때 탐색 표시줄이 계속 보이도록 고정합니다.";
 "NoSubbar" = "하위 모음 숨기기";
 "NoSubbarDesc" = "탐색 표시줄 아래의 하위 모음(전체, 새로운 항목, 라이브 등)을 숨깁니다.";
-"LogoImage" = "Logo image";
-"LogoImageDesc" = "Replaces the YouTube logo with the one selected in the navigation bar.";
-"NoLogo" = "Remove logo";
+"LogoImage" = "로고 이미";
+"LogoImageDesc" = "YouTube로고를 탐색 표시줄에 적용된 로고로 바꿉니다.";
+"NoLogo" = "로고 숨기기";
 
 /* Feed options */
 "Feed" = "피드";
@@ -91,34 +91,34 @@
 
 /* Player options */
 "Player" = "플레이어";
-"PlaybackQualityOnWiFi" = "WiFi에서의 재생 품질";
-"PlaybackQualityOnWiFiDesc" = "Automatically applies the selected quality when streaming over Wi-Fi";
+"PlaybackQualityOnWiFi" = "Wi-Fi에서의 재생 품질";
+"PlaybackQualityOnWiFiDesc" = "선택된 재생 품질을 Wi-Fi에서 영상 재생시 자동으로 적용합니다.";
 "PlaybackQualityOnCellular" = "셀룰러에서의 재생 품질";
-"PlaybackQualityOnCellularDesc" = "Automatically applies the selected quality when streaming over mobile data";
+"PlaybackQualityOnCellularDesc" = "선택된 재생 품질을 셀룰러에서 영상 재생시 자동으로 적용합니다.";
 
 "PreferredCaptions" = "선호 자막";
 "Original" = "원본";
 "Custom" = "수동 선택";
 "CustomAudioTrack" = "선택된 오디오 트랙";
-"CustomAudioTrackDesc" = "Specifies the preferred audio track language to use for playback, if available";
-"IgnoreAutoDub" = "Ignore auto-dubbed tracks";
-"IgnoreAutoDubDesc" = "Skips manual selection if the preferred language track is auto-dubbed.";
+"CustomAudioTrackDesc" = "오디오 트랙이 재생될때 사용할 언어가 가능하다면 선택합니다.";
+"IgnoreAutoDub" = "자동 더빙 무시하기";
+"IgnoreAutoDubDesc" = "만약 선호 언어의 오디오 트랙이 자동 더빙이라면 수동 선택을 건너뜁니다.";
 "CustomCaptions" = "선택된 자막";
-"CustomCaptionsDesc" = "Specifies the preferred captions language to display, if available";
+"CustomCaptionsDesc" = "자막에서 사용할 언어가 가능하다면 설정합니다.";
 "AutoGenCaps" = "자동 생성 자막";
 "AutoGenCapsDesc" = "선택된 자막이 발견되지 않으면, YouTube Plus는 원본 자막의 번역본이나 자동 생성 자막의 번역본을 선택하려고 시도합니다.";
 
 "Player.Interface" = "인터페이스";
-"SleepTimer" = "Sleep timer";
-"SleepTimerDesc" = "Displays sleep timer button on the overlay and to the tab bar long-press menu.";
+"SleepTimer" = "취침 타이머";
+"SleepTimerDesc" = "취침 타이머 버튼을 오버레이와 탭 바를 길게 눌러 표시합니다.";
 "SpeedControls" = "속도 조절";
 "SpeedControlsDesc" = "오버레이에 속도 조절 버튼을 표시합니다.";
 "MuteButton" = "음소거 버튼";
 "MuteButtonDesc" = "오버레이에서 음량을 음소거하거나 음소거 해제하는 버튼을 표시합니다.";
 "LockButton" = "잠금 버튼";
 "LockButtonDesc" = "오버레이 화면을 빠르게 잠그고 전체 화면 모드로 전환하는 버튼을 표시합니다.";
-"HideOverlayTitle" = "Hide video title";
-"HideOverlayTitleDesc" = "Hides the video title in fullscreen overlay.";
+"HideOverlayTitle" = "영상 제목 숨기기";
+"HideOverlayTitleDesc" = "전체화면 오버레이에서 영상 제목을 숨깁니다.";
 "HideAutoplay" = "자동 재생 스위치 숨기기";
 "HideAutoplayDesc" = "오버레이에서 자동 재생 스위치 숨기기";
 "HideSubs" = "자막 버튼 숨기기";
@@ -144,7 +144,7 @@
 "NoFullscreenActions" = "전체 화면 동작 비활성화";
 "NoFullscreenActionsDesc" = "전체 화면 모드에서 동작 패널 비활성화";
 "NoHudMsgs" = "Disable snackbars";
-"NoHudMsgsDesc" = "Prevents YouTube from showing on-screen HUD messages.";
+"NoHudMsgsDesc" = "YouTube가 HUD에 메시지를 표시하지 않게 합니다.";
 "PersistentProgressBar" = "지속적인 진행률 표시줄";
 "PersistentProgressBarDesc" = "플레이어에서 항상 진행률 표시줄 표시";
 "RedProgressBar" = "빨간색 진행률 표시줄";
@@ -154,7 +154,7 @@
 "NoRelatedVids" = "오버레이 관련 동영상 숨기기";
 "NoRelatedVidsDesc" = "위로 밀어서 오버레이에 표시되는 관련 동영상을 제거합니다.";
 "NoPromotionCards" = "유료 프로모션 카드 숨기기";
-"NoPromotionCardsDesc" = "Hides \"Includes Paid Promotions\" card in promotions included videos.";
+"NoPromotionCardsDesc" = "유표 프로모션이 포함된 영상에서 \"유료광고 포함\" 카드를 숨깁니다.";
 "NoWatermarks" = "워터마크 숨기기";
 "NoWatermarksDesc" = "플레이어에서 채널 워터마크를 숨깁니다.";
 "DisableAmbientMode" = "주변 모드 비활성화";
@@ -167,11 +167,11 @@
 "NoRelatedWatchNextsDesc" = "플레이어 아래의 모든 비디오를 숨기고, 비디오 정보와 코멘트 섹션만 남겨둠";
 "RemoveInlineComment" = "인라인 코멘트 제거";
 "RemoveInlineCommentDesc" = "플레이어 아래의 코멘트 섹션 제거";
-"NoSubUnderPlayer" = "Remove \"Subscribe\" button";
+"NoSubUnderPlayer" = "\"구독\" 버튼 제거";
 "NoSubUnderPlayerDesc" = "플레이어 아래의 \"구독\" 버튼을 제거합니다.";
-"PlayerNoShare" = "Remove \"Share\" button";
+"PlayerNoShare" = "\"공유\" 버튼 제거";
 "PlayerNoShareDesc" = "플레이어 아래의 \"공유\" 버튼을 제거합니다.";
-"PlayerNoThanks" = "Remove \"Thanks\" button";
+"PlayerNoThanks" = "\"Thanks\" 버튼 제거";
 "PlayerNoThanksDesc" = "플레이어 아래의 \"Thanks\" 버튼을 제거합니다.";
 "PlayerNoRemix" = "\"리믹스\" 버튼 제거";
 "PlayerNoRemixDesc" = "리믹스 버튼을 플레이어 밑으로 이동합니다.";
@@ -183,21 +183,21 @@
 "PlayerNoSaveDesc" = "플레이어 아래의 \"저장\" 버튼을 제거합니다.";
 "PlayerNoReport" = "\"신고\" 버튼 제거";
 "PlayerNoReportDesc" = "플레이어 아래의 \"신고\" 버튼을 제거합니다.";
-"PlayerNoHype" = "Remove \"Hype\" button";
-"PlayerNoHypeDesc" = "Removes \"Hype\" button under player.";
-"PlayerNoStopAds" = "Remove \"Stop ads\" button";
-"PlayerNoStopAdsDesc" = "Removes \"Stop ads\" button under player.";
+"PlayerNoHype" = "\"하이프\" 버튼 제거";
+"PlayerNoHypeDesc" = "플레이어 아래의 \"하이프\" 버튼을 제거합니다.";
+"PlayerNoStopAds" = "\"광고 없애기\" 버튼 제거";
+"PlayerNoStopAdsDesc" = "플레이어 아래의 \"광고 없애기\" 버튼을 제거합니다.";
 
 "ProgressBarStyle" = "진행 표시줄 스타일";
 "SolidColor" = "단색";
-"Gradient" = "그라디언트";
+"Gradient" = "그라데이션";
 "MainColor" = "기본 색상";
-"GradientColor" = "그라디언트 하이라이트";
+"GradientColor" = "그라데이션 하이라이트";
 "ScrubberColor" = "스크러버 색상";
 
 "Player.Actions" = "액션";
 "DefaultPlaybackRate" = "기본 재생 속도";
-"DefaultPlaybackRateDesc" = "Overrides the default playback speed";
+"DefaultPlaybackRateDesc" = "기본 재생 속도를 덮어씌웁니다.";
 "BackgroundPlayback" = "배경 재생";
 "BackgroundPlaybackDesc" = "백그라운드 재생 활성화.";
 "Miniplayer" = "미니 플레이어 활성화";
@@ -215,7 +215,7 @@
 "ExitFullscreen" = "완료 시 전체 화면 모드를 종료합니다.";
 "ExitFullscreenDesc" = "동영상 재생이 끝날 때 전체 화면 모드를 종료합니다.";
 
-"Player.ControlCenter" = "Control Center";
+"Player.ControlCenter" = "컨트롤 센터";
 "RcSkipBackward" = "Skip backward";
 "RcSkipBackwardDesc" = "Replaces the previous track button in Control Center with a skip backward button by a set number of seconds.";
 "RcSkipForward" = "Skip forward";
@@ -225,13 +225,13 @@
 "CompactToast" = "Compact toast";
 "CompactToastDesc" = "Displays a compact-style toast for player gestures";
 "LeftSideGesture" = "왼쪽 제스처";
-"LeftSideGestureDesc" = "Adjusts the selected setting by swiping vertically on the left side of the screen";
+"LeftSideGestureDesc" = "선택된 설정을 왼쪽 화면을 수직으로 스와이프로 설정합니다.Adjusts the selected setting by swiping vertically on the left side of the screen";
 "RightSideGesture" = "오른쪽 제스처";
 "RightSideGestureDesc" = "Adjusts the selected setting by swiping vertically on the right side of the screen";
 "ActivationAreaWidth" = "제스처 활성화 폭";
 "ActivationAreaWidthDesc" = "이 값은 화면의 왼쪽과 오른쪽에 대한 제스처 인식 영역을 픽셀 단위로 결정합니다.\n\n허용되는 최대 값은 화면 너비의 1/3입니다.\n\n이 설정을 조정하면 플레이어를 최소화하거나 확장하려고 할 때 실수로 활성화되는 것을 방지하는 데 유용합니다.";
 "HoldToSpeed" = "길게 누르면 속도";
-"HoldToSpeedDesc" = "Sets the playback speed triggered by a long press on the player.\n\nStandard: 0.25×–5× with fixed steps\nExtended: 0.25×–10× with 0.05× steps";
+"HoldToSpeedDesc" = "플레이어를 길게 누르는 것으로 속도 조절을 활성화 합니다.\n\n기본: 0.25×–5× with fixed steps\nExtended: 0.25×–10× with 0.05× steps";
 "Standard" = "Standard";
 "Extended" = "Extended";
 "AdjustWithFinger" = "제스처로 속도 조정";
@@ -245,8 +245,8 @@
 "Independent" = "독립";
 "DurationBased" = "재생 시간 기반";
 "SeekSensitivity" = "탐색 민감도";
-"TapToSeek" = "Tap to seek";
-"TapToSeekDesc" = "Quickly jump to any point by tapping the progress bar.";
+"TapToSeek" = "탭으로 이동";
+"TapToSeekDesc" = "플레이어 바를 탭하여 빠르게 영상 아무지점으로 이동합니다.";
 "TwoFingerTapToPause" = "두 손가락으로 탭하여 일시 정지";
 "TwoFingerTapToPauseDesc" = "두 손가락으로 화면을 탭하여 재생 일시 정지/재개";
 "TwoFingerPanToBrightness" = "밝기 조절";
@@ -271,8 +271,8 @@
 "ScrollToNext" = "다음으로 스크롤";
 "Stop" = "중지";
 "AutoSkipShorts" = "Shorts 자동 건너뛰기";
-"ForceBestQuality" = "Force quality";
-"ForceBestQualityDesc" = "Disables Shorts quality selection, allowing the player to automatically pick the most suitable quality.";
+"ForceBestQuality" = "화질 강제하기";
+"ForceBestQualityDesc" = "Shorts 화질 선택을 비활성화해 플레이어가 자동으로 최적화된 화질을 선택하게 합니다.";
 "ShortsOnlyMode" = "Shorts 전용 모드";
 "ShortsOnlyModeDesc" = "유튜브 기능을 Shorts만 볼 수 있도록 제한합니다.";
 "RestrictShorts" = "Shorts 제한";
@@ -281,21 +281,21 @@
 "ShortsProgressDesc" = "Shorts 오버레이에 진행률 표시줄 표시";
 "SpeedByLongTap" = "Shorts 재생 속도 향상";
 "SpeedByLongTapDesc" = "화면의 특정 부분을 길게 탭하여 재생 속도 향상";
-"LeftSide" = "Left side";
-"RightSide" = "Right side";
-"BothSides" = "Both sides";
+"LeftSide" = "왼쪽";
+"RightSide" = "오른쪽";
+"BothSides" = "양쪽";
 "PinchToFullscreenShorts" = "핀치하여 전체 화면으로 확대";
 "PinchToFullscreenShortsDesc" = "핀치 인 및 핀치 아웃 제스처로 오버레이의 가시성을 관리하여 Shorts를 전체 화면 모드로 표시합니다.";
 "ShortsToRegular" = "Shorts 동영상을 일반 동영상으로 전환";
 "ShortsToRegularDesc" = "Shorts 동영상을 일반 동영상으로 엽니다.";
-"RemoveShortsPosts" = "Remove posts";
-"RemoveShortsPostsDesc" = "Removes posts from the feed.";
+"RemoveShortsPosts" = "게시물 제거";
+"RemoveShortsPostsDesc" = "피드에서 게시물을 제거합니다.";
 "RemoveShortsLive" = "라이브 비디오 제거";
 "RemoveShortsLiveDesc" = "피드에서 라이브 비디오를 제거합니다";
 
 "ShortsInterface" = "인터페이스";
-"HideShortsProducts" = "Hide products";
-"HideShortsProductsDesc" = "Hides product stickers added by the author.";
+"HideShortsProducts" = "제품 숨기기";
+"HideShortsProductsDesc" = "업로더가 추가한 제품 스티커를 숨깁니다.";
 "HideShortsLogo" = "Shorts 로고 숨기기";
 "HideShortsLogoDesc" = "Shorts 로고를 왼쪽 상단 모서리에 숨깁니다.";
 "HideShortsSearch" = "검색 버튼 숨기기";
@@ -324,8 +324,8 @@
 "HideShortsShareDesc" = "액션 바에서 공유 버튼을 제거합니다.";
 "HideShortsRemix" = "리믹스 버튼 없음";
 "HideShortsRemixDesc" = "액션 바에서 리믹스 버튼을 제거합니다.";
-"HideShortsAudioButton" = "No Audio button";
-"HideShortsAudioButtonDesc" = "Removes the Audio button from the action bar.";
+"HideShortsAudioButton" = "오디오 버튼 없음";
+"HideShortsAudioButtonDesc" = "액션 바에서 오디오 버튼을 제거합니다.";
 "HideShortsSuggestion" = "제안 없음";
 "HideShortsSuggestionDesc" = "재생목록에 추가, 슈퍼 감사 등 제안 버튼을 제거합니다.";
 "HideShortsSubscribe" = "팔로우 버튼 없음";
@@ -338,8 +338,8 @@
 "HideShortsSourceDesc" = "전체 영상 또는 다른 Shorts 영상으로 이동하는 버튼 제거";
 "HideShortsAudio" = "오디오 표시 없음";
 "HideShortsAudioDesc" = "Shorts에 사용된 오디오를 나타내는 줄을 제거합니다.";
-"HideShortsCommentBar" = "No comment bar";
-"HideShortsCommentBarDesc" = "Removes the comment bar in Shorts played from a user's profile.";
+"HideShortsCommentBar" = "댓글창 없음";
+"HideShortsCommentBarDesc" = "유저의 프로필에서 재생되는 Shorts에서 댓글창을 제거합니다.";
 
 /* Tab bar options */
 "Tabbar" = "탭 바";
@@ -353,12 +353,12 @@
 "FEhistory" = "기록";
 "FEpost_home" = "게시물";
 "VLWL" = "나중에 시청하기";
-"FEhype_leaderboard" = "Hype";
-"UC-9-kyTW8ZkZNDHQJ6FgpwQ" = "Music";
-"UC4R8DWoMoI7CAwX8_LjQHig" = "Live";
-"UCOpNcN46UbXVtpKMrmU4Abg" = "Gaming";
-"UCEgdi0XIXXZ-qJOFPf4JSKw" = "Sports";
-"FEnotifications_inbox" = "Notifications";
+"FEhype_leaderboard" = "하이프";
+"UC-9-kyTW8ZkZNDHQJ6FgpwQ" = "음악";
+"UC4R8DWoMoI7CAwX8_LjQHig" = "라이브";
+"UCOpNcN46UbXVtpKMrmU4Abg" = "게임";
+"UCEgdi0XIXXZ-qJOFPf4JSKw" = "스포츠";
+"FEnotifications_inbox" = "알림";
 
 "TranslucentBar" = "반투명 탭 바";
 "RemoveLabels" = "탭 라벨 제거";
@@ -368,7 +368,7 @@
 "InactiveTabs" = "비활성 탭";
 "HideLibraryFooter" = "탭 바의 첫 번째 탭을 길게 누르면 라이브러리 탭을 숨기거나 표시할 수 있습니다.";
 "Warning" = "경고";
-"AtLeastOneTab" = "At least one tab must remain active";
+"AtLeastOneTab" = "최소 하나의 탭이 활성된 상태여야 합니다.";
 "TabsCountRestricted" = "활성 탭은 최대 6개까지만 가질 수 있습니다";
 
 /* Interface options */
@@ -406,8 +406,8 @@
 "NoLinkTrackingDesc" = "Prevents tracking information from being sent when tapping links. Opens links directly instead of going through Google redirects.";
 "NoShareChunk" = "공유 식별자 제거";
 "NoShareChunkDesc" = "공유 링크에서 \"si=identifier\" 매개변수를 제거합니다. YouTube가 공유 메뉴를 계속 개선하고 있으므로, \"네이티브 공유 시트\" 옵션을 대신할 수 있는 좋은 대안입니다.";
-"AutoCheckLinks" = "Auto-check clipboard";
-"AutoCheckLinksDesc" = "Check clipboard for YouTube-related links each time the app is opened.\nFor proper functionality, go to iOS Settings → YouTube → Paste from other apps and select \"Allow\"";
+"AutoCheckLinks" = "클립보드 자동 확인";
+"AutoCheckLinksDesc" = "앱이 열릴때마다 YouTube 관련링크를 클립보드에서 확인합니다.\n제대로 작동하기 위해선 iOS 설정 → YouTube → 다른 앱에서 붙여넣기로 이동해 \"허용\"을 선택합니다.";
 
 "ContextMenu" = "컨텍스트 메뉴";
 "NativeShare" = "네이티브 공유 시트";
@@ -428,14 +428,14 @@
 "RemoveNotInterestedMenuDesc" = "메뉴에서 \"관심 없음\" 옵션을 제거합니다.";
 "RemoveDontRecommendMenu" = "\"채널 추천 안 함\" 제거";
 "RemoveDontRecommendMenuDesc" = "메뉴에서 \"채널 추천 안 함\" 옵션을 제거합니다.";
-"RemoveFeedbackMenu" = "Remove \"Feedback\"";
-"RemoveFeedbackMenuDesc" = "Removes \"Feedback\" option from menu.";
+"RemoveFeedbackMenu" = "\"피드백\" 제거";
+"RemoveFeedbackMenuDesc" = "메뉴에서 \"피드백\" 옵션을 제거합니다.";
 "RemoveReportMenu" = "\"신고\" 제거";
 "RemoveReportMenuDesc" = "메뉴에서 \"신고\" 옵션을 제거합니다.";
-"RemoveRemixMenu" = "Remove \"Remix\"";
-"RemoveRemixMenuDesc" = "Removes \"Remix\" option from menu.";
-"RemoveYTMMenu" = "Remove \"YouTube Music\"";
-"RemoveYTMMenuDesc" = "Removes \"Listen with YouTube Music\" option from menu.";
+"RemoveRemixMenu" = "\"리믹스\" 제거";
+"RemoveRemixMenuDesc" = "메뉴에서 \"리믹스\" 옵션을 제거합니다.";
+"RemoveYTMMenu" = "\"YouTube 뮤직\" 제거";
+"RemoveYTMMenuDesc" = "메뉴에서 \"YouTube 뮤직에서 듣기\" 옵션을 제거합니다.";
 
 /* SponsorBlock settings */
 "EnableSponsorBlock" = "활성화";
